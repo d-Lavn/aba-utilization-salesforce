@@ -57,4 +57,4 @@ Salesforce (Developer Edition): Object Manager, Reports and Dashboards, Flow Bui
 2. Follow [docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md) to build the objects and load the data
 
 ## Related
-[Project 2: ABA Revenue Cycle Analysis (SQL + Power BI)](https://github.com/YOUR-USERNAME/aba-revenue-cycle-sql), which joins this Salesforce data with EHR sessions and insurance claims.
+[Project 2: ABA Revenue Cycle Analysis (SQL + Power BI)](https://github.com/d-Lavn/aba-revenue-cycle-sql), which joins this Salesforce data with EHR sessions and insurance claims.
