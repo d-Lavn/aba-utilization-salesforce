@@ -1,0 +1,8 @@
+Ext_ID__c,Name,Payer_Type__c,Rate_per_Hour__c
+PAY-01,Mercy Care (AHCCCS),Medicaid,52.00
+PAY-02,Banner University Family Care (AHCCCS),Medicaid,52.00
+PAY-03,AZ DDD,State Program,56.00
+PAY-04,BCBS of Arizona,Commercial,68.00
+PAY-05,UnitedHealthcare,Commercial,64.00
+PAY-06,Aetna,Commercial,62.00
+PAY-07,Cigna,Commercial,60.00
